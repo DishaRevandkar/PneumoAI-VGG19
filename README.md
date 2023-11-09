@@ -1,1 +1,0 @@
-# Pneumonia-Detection-using-Deep-Convolutional-Neural-Network
