@@ -6,7 +6,7 @@ Pneumonia is a severe respiratory infection affecting millions globally, leading
 
 ## Dataset
 
-The Chest X-Ray Images (Pneumonia) dataset [2] is utilized, comprising 5,856 chest X-ray images categorized into normal and pneumonia-positive classes. The project follows a standard train-test split with a validation set.
+The Chest X-Ray Images (Pneumonia) dataset is utilized, comprising 5,856 chest X-ray images categorized into normal and pneumonia-positive classes. 
 
 ## Model Architecture
 
@@ -18,7 +18,7 @@ The project aims to assess whether the modified VGG19 model outperforms previous
 
 ## Experiment Results
 
-The model achieved a test accuracy of 91%, outperforming ResNet50 and InceptionV3. Further details and comparisons are available in the experimental results section.
+The model achieved a test accuracy of 91%, outperforming ResNet50 and InceptionV3. 
 
 -> To run the code:
 
