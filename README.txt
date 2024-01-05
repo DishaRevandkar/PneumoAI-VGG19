@@ -23,7 +23,7 @@ The model achieved a test accuracy of 91%, outperforming ResNet50 and InceptionV
 Performance Comparison
 Model	         Training Accuracy	  Validation Accuracy	  Test Accuracy
 VGG19	             96.25%	                100%	            91%
-ResNet50	         86.08%	                81.25%	         77.24%
+ResNet50	      86.08%	                81.25%	         77.24%
 InceptionV3	       97.97%	                93.75%	         9.26%
 
 
