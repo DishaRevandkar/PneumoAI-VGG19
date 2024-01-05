@@ -1,4 +1,4 @@
--> To run our code:
+-> To run the code:
 
 1) Either the .ipynb file present in the zip folder can be run using Jupyter Notebook on local machine, or can be opened on Google Colab to run it faster with a GPU.
   
