@@ -1,3 +1,25 @@
+# Pneumonia Detection using Deep Convolutional Neural Network
+
+## Overview
+
+Pneumonia is a severe respiratory infection affecting millions globally, leading to high mortality rates, particularly among young children and the elderly. Early diagnosis is crucial for effective treatment. This project employs deep learning, specifically a modified VGG19 model, to accurately classify chest X-ray images as normal or positive for pneumonia.
+
+## Dataset
+
+The Chest X-Ray Images (Pneumonia) dataset [2] is utilized, comprising 5,856 chest X-ray images categorized into normal and pneumonia-positive classes. The project follows a standard train-test split with a validation set.
+
+## Model Architecture
+
+The neural network model is based on the VGG19 architecture with key modifications. The model consists of 9 convolutional layers, 4 custom dense layers, and a sigmoid activation function for binary classification. Transfer learning, dropout layers, and hyperparameter tuning are incorporated to enhance performance.
+
+## Experimental Design
+
+The project aims to assess whether the modified VGG19 model outperforms previously used algorithms in pneumonia detection. Key modifications include data augmentation, custom model architecture, transfer learning, and hyperparameter tuning.
+
+## Experiment Results
+
+The model achieved a test accuracy of 91%, outperforming ResNet50 and InceptionV3. Further details and comparisons are available in the experimental results section.
+
 -> To run the code:
 
 1) Either the .ipynb file present in the zip folder can be run using Jupyter Notebook on local machine, or can be opened on Google Colab to run it faster with a GPU.
