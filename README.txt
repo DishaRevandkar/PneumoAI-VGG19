@@ -1,5 +1,3 @@
--> We are submitting 'CSCI_635_Project_Code.ipynb' file containing our project code in a zip folder to the 'FiNAL Code' Dropbox on mycourses. 
-
 -> To run our code:
 
 1) Either the .ipynb file present in the zip folder can be run using Jupyter Notebook on local machine, or can be opened on Google Colab to run it faster with a GPU.
